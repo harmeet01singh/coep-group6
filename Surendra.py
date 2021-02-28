@@ -14,11 +14,6 @@ def generate_image_square1(a):
     a_start_cordinate = (margin, margin)
     a_end_cordinate = (margin + a * multiple, margin + a * multiple)
     draw.rectangle([a_start_cordinate, a_end_cordinate], fill="red", outline="black", width=1)
-    for i in range(1, a):
-        draw.line([margin + i * multiple, margin, margin + i * multiple, margin + a * multiple], fill="black",
-                  width=1)  # Vertical Lines
-        draw.line([margin, margin + i * multiple, margin + a * multiple, margin + i * multiple], fill="black",
-                  width=1)  # Horizontal Lines
     draw.text((margin + (a_end_cordinate[0] - margin) // 2, a_end_cordinate[1] + 50), "A",
               font=ImageFont.truetype("arial.ttf", size=15), fill="black")
 
@@ -32,12 +27,6 @@ def generate_image_square2(img, b):
     b_start_cordinate = (450, margin)
     b_end_cordinate = (450 + b * multiple, margin + b * multiple)
     draw.rectangle([b_start_cordinate, b_end_cordinate], fill="green", outline="black", width=1)
-    for i in range(1, b):
-        draw.line(
-            [b_start_cordinate[0] + i * multiple, margin, b_start_cordinate[0] + i * multiple, margin + b * multiple],
-            fill="black", width=1)  # Vertical Lines
-        draw.line([b_start_cordinate[0], b_start_cordinate[1] + i * multiple, b_end_cordinate[0],
-                   b_start_cordinate[1] + i * multiple], fill="black", width=1)  # Horizontal Lines
     draw.text((b_start_cordinate[0] + (b_end_cordinate[0] - b_start_cordinate[0]) // 2, b_end_cordinate[1] + 50), "B",
               font=ImageFont.truetype("arial.ttf", size=15), fill="black")
 
@@ -54,12 +43,6 @@ def generate_image_rectangle1(l1, b1):
     a_end_cordinate = (margin + b1 * multiple, margin + l1 * multiple)
     draw.rectangle([a_start_cordinate, a_end_cordinate],
                    fill="red", outline="black", width=1)
-    for i in range(1, b1):
-        draw.line([margin + i * multiple, margin, margin + i * multiple,
-                   margin + l1 * multiple], fill="black", width=1)  # Vertical Lines
-    for i in range(1, l1):
-        draw.line([margin, margin + i * multiple, margin + b1 * multiple,
-                   margin + i * multiple], fill="black", width=1)  # Horizontal Lines
     draw.text((margin + (a_end_cordinate[0] - margin) // 2, a_end_cordinate[1] + 50),
               "A", font=ImageFont.truetype("arial.ttf", size=15), fill="black")
 
@@ -74,12 +57,6 @@ def generate_image_rectangle2(img, l2, b2):
     b_end_cordinate = (450 + b2 * multiple, margin + l2 * multiple)
     draw.rectangle([b_start_cordinate, b_end_cordinate],
                    fill="green", outline="black", width=1)
-    for i in range(1, b2):
-        draw.line([b_start_cordinate[0] + i * multiple, margin, b_start_cordinate[0] +
-                   i * multiple, margin + l2 * multiple], fill="black", width=1)  # Vertical Lines
-    for i in range(1, l2):
-        draw.line([b_start_cordinate[0], b_start_cordinate[1] + i * multiple, b_end_cordinate[0],
-                   b_start_cordinate[1] + i * multiple], fill="black", width=1)  # Horizontal Lines
     draw.text((b_start_cordinate[0] + (b_end_cordinate[0] - b_start_cordinate[0]) // 2,
                b_end_cordinate[1] + 50), "B", font=ImageFont.truetype("arial.ttf", size=15), fill="black")
 
@@ -95,10 +72,6 @@ def generate_image_circle1(a):
     a_start_cordinate = (margin, margin)
     a_end_cordinate = (margin + a * multiple, margin + a * multiple)
     draw.ellipse([a_start_cordinate, a_end_cordinate], fill="red", outline="black", width=1)
-    for i in range(1, a):
-        draw.ellipse([(a_start_cordinate[0] + (i * multiple), a_start_cordinate[1] + (i * multiple)),
-                      (a_end_cordinate[0] - (i * multiple), a_end_cordinate[1] - (i * multiple))], fill="red",
-                     outline="black", width=1)
     draw.text((margin + (a_end_cordinate[0] - margin) // 2, a_end_cordinate[1] + 50), "A",
               font=ImageFont.truetype("arial.ttf", size=15), fill="black")
 
@@ -112,10 +85,6 @@ def generate_image_circle2(img, b):
     b_start_cordinate = (450, margin)
     b_end_cordinate = (450 + b * multiple, margin + b * multiple)
     draw.ellipse([b_start_cordinate, b_end_cordinate], fill="green", outline="black", width=1)
-    for i in range(1, b):
-        draw.ellipse([(b_start_cordinate[0] + (i * multiple), b_start_cordinate[1] + (i * multiple)),
-                      (b_end_cordinate[0] - (i * multiple), b_end_cordinate[1] - (i * multiple))], fill="green",
-                     outline="black", width=1)
     draw.text((b_start_cordinate[0] + (b_end_cordinate[0] - b_start_cordinate[0]) // 2, b_end_cordinate[1] + 50), "B",
               font=ImageFont.truetype("arial.ttf", size=15), fill="black")
 
@@ -171,6 +140,7 @@ def sol(x, y):
 
 print("Whether A and B are identical: A = B?")
 x, y = (random.randint(1, 4), random.randint(1, 4))
+
 if x == 1:
     img = generate_image_square1(5)
 elif x == 2:
