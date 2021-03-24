@@ -1,0 +1,26 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+image,text,03020101,v1,Find total distance between house and hospital in terms of x ?,$110 + x$,,,,$110 - x$,$x - 110$,$-(x + 110)$,60,3,Positive_Distance_Variable_1.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between house and hospital = distance between house and school + distance between school and hospital 
+=> distance between house and hospital = $110 + x$ 
+Hence the correct answer is $110 + x$.",
+image,text,03020101,v1,Find total distance between house and school in terms of x ?,$102 + x$,,,,$102 - x$,$x - 102$,$-(x + 102)$,60,3,Positive_Distance_Variable_2.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between house and school = distance between house and metro + distance between metro and school 
+=> distance between house and school = $102 + x$ 
+Hence the correct answer is $102 + x$.",
+image,text,03020101,v1,Find total distance between hospital and park in terms of x ?,$67 + x$,,,,$x - 67$,$-(x + 67)$,$67 - x$,60,3,Positive_Distance_Variable_3.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between hospital and park = distance between hospital and metro + distance between metro and park 
+=> distance between hospital and park = $67 + x$ 
+Hence the correct answer is $67 + x$.",
+image,text,03020101,v1,Find total distance between hospital and metro in terms of x ?,$132 + x$,,,,$-(x + 132)$,$132 - x$,$x - 132$,60,3,Positive_Distance_Variable_4.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between hospital and metro = distance between hospital and park + distance between park and metro 
+=> distance between hospital and metro = $132 + x$ 
+Hence the correct answer is $132 + x$.",
+image,text,03020101,v1,Find total distance between hospital and park in terms of x ?,$52 + x$,,,,$x - 52$,$-(x + 52)$,$52 - x$,60,3,Positive_Distance_Variable_5.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between hospital and park = distance between hospital and house + distance between house and park 
+=> distance between hospital and park = $52 + x$ 
+Hence the correct answer is $52 + x$.",
