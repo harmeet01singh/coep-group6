@@ -1,0 +1,47 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+image,text,03020101,v1,For the given radius what is the area of the circle in terms of $x$ ?,$\dfrac{\pi x^{2}}{4}$,,,,$\dfrac{\pi x^{2}}{2}$,$\dfrac{\pi x^{2}}{8}$,$\pi x^{2}$,60,3,Circle_area_var1.png,2019chinmay.thakur@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+                Here radius of the circle is given as $r=\dfrac{x}{2}$.
+                Formula of Area = $\pi r^{2}$.
+                
+Substitute $r=\dfrac{x}{2}$ in the formula .
+                Therefore,
+                           Area = $\dfrac{\pi x^{2}}{4}$ .",
+image,text,03020101,v1,For the given radius what is the area of the circle in terms of $x$ ?,$16\pi x^{2}$,,,,$4\pi x^{2}$,$8\pi x^{2}$,$\dfrac{\pi x^{2}}{16}$,60,3,Circle_area_var2.png,2019chinmay.thakur@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+                Here radius of the circle is given as $r=4x$.
+                Formula of Area = $\pi r^{2}$.
+                
+Substitute $r=4x$ in the formula .
+                Therefore,
+                           Area = $16\pi x^{2}$ .",
+image,text,03020101,v1,For the given diameter what is the area of the circle in terms of $x$ ?,$\dfrac{\pi x^{2}}{16}$,,,,$16\pi x^{2}$,$\dfrac{\pi x^{2}}{8}$,$\dfrac{\pi x^{2}}{4}$,60,3,Circle_area_var3.png,2019chinmay.thakur@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+                Here diameter of the circle is given as $d=\dfrac{x}{2}$.
+                Formula of Area = $\pi r^{2}$.
+                
+               $r=\dfrac{d}{2}$
+                Therefore, Area = $\dfrac{\pi d^{2}}{4}$.
+                
+Substitute $d=\dfrac{x}{2}$ in the formula .
+                Therefore,
+                           Area = $\dfrac{\pi x^{2}}{16}$ .",
+image,text,03020101,v1,For the given diameter what is the area of the circle in terms of $x$ ?,$4\pi x^{2}$,,,,$8\pi x^{2}$,$\pi x^{2}$,$2\pi x^{2}$,60,3,Circle_area_var4.png,2019chinmay.thakur@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+                Here diameter of the circle is given as $d=4x$.
+                Formula of Area = $\pi r^{2}$.
+                
+               $r=\dfrac{d}{2}$
+                Therefore, Area = $\dfrac{\pi d^{2}}{4}$.
+                
+Substitute $d=4x$ in the formula .
+                Therefore,
+                           Area = $4\pi x^{2}$ .",
+image,text,03020101,v1,For the given radius what is the area of the circle in terms of $x$ ?,$\dfrac{\pi x^{2}}{25}$,,,,$\dfrac{\pi x^{2}}{10}$,$25\pi x^{2}$,$\dfrac{\pi x^{2}}{5}$,60,3,Circle_area_var5.png,2019chinmay.thakur@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+                Here radius of the circle is given as $r=\dfrac{x}{5}$.
+                Formula of Area = $\pi r^{2}$.
+                
+Substitute $r=\dfrac{x}{5}$ in the formula .
+                Therefore,
+                           Area = $\dfrac{\pi x^{2}}{25}$ .",

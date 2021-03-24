@@ -1,0 +1,61 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+image,text,030203,v1,Find the value of $x$ if the area of the circle is $78.5$?,$2$,,,,$50$,$6$,$10$,60,3,Circle_area_val1.png,2019chinmay.thakur@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+                The area of circle is given as $78.5$.
+                Formula of Area = $\pi r^{2}$.
+                         $r^{2}$=$\dfrac{78.5}{\pi }$
+                                =$25.0$
+                    Therefore, $r$=$5.0$
+
+                Now for $x$,
+                               $x$=$\dfrac{d}{5}$
+                           $d=2*r$=$10.0$
+                     Therefore,$x$=$2$",
+image,text,030203,v1,Find the value of $x$ if the area of the circle is $12.56$?,$20$,,,,$3$,$4$,$0.8$,60,3,Circle_area_val2.png,2019chinmay.thakur@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+                The area of circle is given as $12.56$.
+                Formula of Area = $\pi r^{2}$.
+                         $r^{2}$=$\dfrac{12.56}{\pi }$
+                                =$4.0$
+                    Therefore, $r$=$2.0$
+
+                Now for $x$,
+                               $x$=$\dfrac{d}{1/5}$
+                           $d=2*r$=$4.0$
+                     Therefore,$x$=$20$",
+image,text,030203,v1,Find the value of $x$ if the area of the circle is $12.56$?,$1$,,,,$3$,$4$,$16$,60,3,Circle_area_val3.png,2019chinmay.thakur@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+                The area of circle is given as $12.56$.
+                Formula of Area = $\pi r^{2}$.
+                         $r^{2}$=$\dfrac{12.56}{\pi }$
+                                =$4.0$
+                    Therefore, $r$=$2.0$
+
+                Now for $x$,
+                               $x$=$\dfrac{d}{4}$
+                           $d=2*r$=$4.0$
+                     Therefore,$x$=$1$",
+image,text,030203,v1,Find the value of $x$ if the area of the circle is $28.26$?,$1.2$,,,,$4$,$30$,$6$,60,3,Circle_area_val4.png,2019chinmay.thakur@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+                The area of circle is given as $28.26$.
+                Formula of Area = $\pi r^{2}$.
+                         $r^{2}$=$\dfrac{28.26}{\pi }$
+                                =$9.0$
+                    Therefore, $r$=$3.0$
+
+                Now for $x$,
+                               $x$=$\dfrac{d}{5}$
+                           $d=2*r$=$6.0$
+                     Therefore,$x$=$1.2$",
+image,text,030203,v1,Find the value of $x$ if the area of the circle is $12.56$?,$0.8$,,,,$4$,$20$,$3$,60,3,Circle_area_val5.png,2019chinmay.thakur@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+                The area of circle is given as $12.56$.
+                Formula of Area = $\pi r^{2}$.
+                         $r^{2}$=$\dfrac{12.56}{\pi }$
+                                =$4.0$
+                    Therefore, $r$=$2.0$
+
+                Now for $x$,
+                               $x$=$\dfrac{d}{5}$
+                           $d=2*r$=$4.0$
+                     Therefore,$x$=$0.8$",

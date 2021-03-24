@@ -1,0 +1,47 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+image,text,03020101,v1,For the given diameter what is the circumference of the circle in terms of $x$ ?,$8\pi x$,,,,$\dfrac{\pi x}{2}$,$16\pi x$,$\dfrac{\pi x}{4}$,60,3,Circle_circum_var1.png,2019chinmay.thakur@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+                Here diameter of the circle is given as $d=8x$.
+                Formula of Circumference = $2\pi r$.
+                
+               $r=\dfrac{d}{2}$
+                Therefore, Circumference = $\pi d$.
+                
+Substitute $d=8x$ in the formula .
+                Therefore,
+                           Circumference = $8\pi x$ .",
+image,text,03020101,v1,For the given radius what is the circumference of the circle in terms of $x$ ?,$8\pi x$,,,,$\dfrac{\pi x}{4}$,$\dfrac{\pi x}{2}$,$16\pi x$,60,3,Circle_circum_var2.png,2019chinmay.thakur@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+                Here radius of the circle is given as $r=4x$.
+                Formula of Circumference = $2\pi r$..
+                
+Substitute $r=4x$ in the formula .
+                Therefore,
+                           Circumference = $8\pi x$ .",
+image,text,03020101,v1,For the given diameter what is the circumference of the circle in terms of $x$ ?,$2\pi x$,,,,$4\pi x$,$\pi x$,$\dfrac{\pi x}{2}$,60,3,Circle_circum_var3.png,2019chinmay.thakur@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+                Here diameter of the circle is given as $d=2x$.
+                Formula of Circumference = $2\pi r$.
+                
+               $r=\dfrac{d}{2}$
+                Therefore, Circumference = $\pi d$.
+                
+Substitute $d=2x$ in the formula .
+                Therefore,
+                           Circumference = $2\pi x$ .",
+image,text,03020101,v1,For the given radius what is the circumference of the circle in terms of $x$ ?,$6\pi x$,,,,$9\pi x$,$\dfrac{\pi x}{3}$,$\dfrac{2\pi x}{3}$,60,3,Circle_circum_var4.png,2019chinmay.thakur@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+                Here radius of the circle is given as $r=3x$.
+                Formula of Circumference = $2\pi r$..
+                
+Substitute $r=3x$ in the formula .
+                Therefore,
+                           Circumference = $6\pi x$ .",
+image,text,03020101,v1,For the given radius what is the circumference of the circle in terms of $x$ ?,$\dfrac{2\pi x}{5}$,,,,$10\pi x$,$5\pi x$,$\dfrac{\pi x}{5}$,60,3,Circle_circum_var5.png,2019chinmay.thakur@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+                Here radius of the circle is given as $r=\dfrac{x}{5}$.
+                Formula of Circumference = $2\pi r$..
+                
+Substitute $r=\dfrac{x}{5}$ in the formula .
+                Therefore,
+                           Circumference = $\dfrac{2\pi x}{5}$ .",
