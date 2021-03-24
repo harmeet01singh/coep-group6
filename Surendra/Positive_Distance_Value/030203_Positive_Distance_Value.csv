@@ -1,0 +1,31 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+image,text,030203,v1,Find total distance between school and hospital ?,$200$,,,,$196$,$208$,$50$,60,3,Positive_Distance_Value_1.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between school and hospital = distance between school and metro + distance between metro and hospital
+=> distance between school and hospital = $75 + 125$
+=> distance between school and hospital = $200$
+Hence the correct answer is $200$.",
+image,text,030203,v1,Find total distance between metro and park ?,$275$,,,,$281$,$91$,$268$,60,3,Positive_Distance_Value_2.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between metro and park = distance between metro and school + distance between school and park
+=> distance between metro and park = $92 + 183$
+=> distance between metro and park = $275$
+Hence the correct answer is $275$.",
+image,text,030203,v1,Find total distance between park and hospital ?,$261$,,,,$259$,$3$,$262$,60,3,Positive_Distance_Value_3.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between park and hospital = distance between park and house + distance between house and hospital
+=> distance between park and hospital = $129 + 132$
+=> distance between park and hospital = $261$
+Hence the correct answer is $261$.",
+image,text,030203,v1,Find total distance between school and park ?,$265$,,,,$263$,$268$,$153$,60,3,Positive_Distance_Value_4.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between school and park = distance between school and metro + distance between metro and park
+=> distance between school and park = $56 + 209$
+=> distance between school and park = $265$
+Hence the correct answer is $265$.",
+image,text,030203,v1,Find total distance between metro and school ?,$226$,,,,$224$,$231$,$44$,60,3,Positive_Distance_Value_5.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between metro and school = distance between metro and hospital + distance between hospital and school
+=> distance between metro and school = $135 + 91$
+=> distance between metro and school = $226$
+Hence the correct answer is $226$.",
