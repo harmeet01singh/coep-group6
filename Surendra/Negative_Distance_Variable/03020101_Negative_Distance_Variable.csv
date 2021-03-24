@@ -1,0 +1,26 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+image,text,03020101,v1,"If total distance between house and metro is x, then what is the distance between school and metro in terms of x ?",$x - 139$,,,,$139 - x$,$-(x + 139)$,$139 + x$,60,3,Negative_Distance_Variable_1.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between school and metro = distance between house and metro - distance between house and school
+=> distance between school and metro = $x - 139$ 
+Hence the correct answer is $x - 139$.",
+image,text,03020101,v1,"If total distance between metro and park is x, then what is the distance between school and park in terms of x ?",$x - 52$,,,,$52 - x$,$52 + x$,$-(x + 52)$,60,3,Negative_Distance_Variable_2.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between school and park = distance between metro and park - distance between metro and school
+=> distance between school and park = $x - 52$ 
+Hence the correct answer is $x - 52$.",
+image,text,03020101,v1,"If total distance between park and school is x, then what is the distance between house and school in terms of x ?",$x - 104$,,,,$-(x + 104)$,$104 - x$,$104 + x$,60,3,Negative_Distance_Variable_3.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between house and school = distance between park and school - distance between park and house
+=> distance between house and school = $x - 104$ 
+Hence the correct answer is $x - 104$.",
+image,text,03020101,v1,"If total distance between park and school is x, then what is the distance between house and school in terms of x ?",$x - 74$,,,,$-(x + 74)$,$74 + x$,$74 - x$,60,3,Negative_Distance_Variable_4.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between house and school = distance between park and school - distance between park and house
+=> distance between house and school = $x - 74$ 
+Hence the correct answer is $x - 74$.",
+image,text,03020101,v1,"If total distance between metro and school is x, then what is the distance between park and school in terms of x ?",$x - 63$,,,,$63 - x$,$63 + x$,$-(x + 63)$,60,3,Negative_Distance_Variable_5.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between park and school = distance between metro and school - distance between metro and park
+=> distance between park and school = $x - 63$ 
+Hence the correct answer is $x - 63$.",
