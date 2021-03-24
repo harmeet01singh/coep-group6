@@ -1,0 +1,41 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+image,1,030203,v1,"For given triangle, Find the value of $q$ where perimeter is $279$",$71$,,,,$69$,$118$,$76$,60,3,Yash\Triangles_Perimeter_Solve\triangle_perimeter_solve1.png,2019yash.kumthekar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+Formula of Perimeter = Sum of all sides of triangle
+Therefore Sum of All Sides = $118$ + $90$ + $q$
+Perimeter - $208$ = $q$
+$279$ - $208$ = $q$
+$q$ = $71$
+ThereFore Option $4$ is right selection",
+image,1,030203,v1,"For given triangle, Find the value of $m$ where perimeter is $256$",$43$,,,,$104$,$46$,$40$,60,3,Yash\Triangles_Perimeter_Solve\triangle_perimeter_solve2.png,2019yash.kumthekar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+Formula of Perimeter = Sum of all sides of triangle
+Therefore Sum of All Sides = $104$ + $109$ + $m$
+Perimeter - $213$ = $m$
+$256$ - $213$ = $m$
+$m$ = $43$
+ThereFore Option $3$ is right selection",
+image,1,030203,v1,"For given triangle, Find the value of $b$ where perimeter is $195$",$45$,,,,$84$,$41$,$47$,60,3,Yash\Triangles_Perimeter_Solve\triangle_perimeter_solve3.png,2019yash.kumthekar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+Formula of Perimeter = Sum of all sides of triangle
+Therefore Sum of All Sides = $84$ + $66$ + $b$
+Perimeter - $150$ = $b$
+$195$ - $150$ = $b$
+$b$ = $45$
+ThereFore Option $2$ is right selection",
+image,1,030203,v1,"For given triangle, Find the value of $x$ where perimeter is $284$",$97$,,,,$100$,$95$,$80$,60,3,Yash\Triangles_Perimeter_Solve\triangle_perimeter_solve4.png,2019yash.kumthekar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+Formula of Perimeter = Sum of all sides of triangle
+Therefore Sum of All Sides = $80$ + $107$ + $x$
+Perimeter - $187$ = $x$
+$284$ - $187$ = $x$
+$x$ = $97$
+ThereFore Option $1$ is right selection",
+image,1,030203,v1,"For given triangle, Find the value of $x$ where perimeter is $211$",$59$,,,,$61$,$95$,$58$,60,3,Yash\Triangles_Perimeter_Solve\triangle_perimeter_solve5.png,2019yash.kumthekar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+Formula of Perimeter = Sum of all sides of triangle
+Therefore Sum of All Sides = $95$ + $57$ + $x$
+Perimeter - $152$ = $x$
+$211$ - $152$ = $x$
+$x$ = $59$
+ThereFore Option $4$ is right selection",
