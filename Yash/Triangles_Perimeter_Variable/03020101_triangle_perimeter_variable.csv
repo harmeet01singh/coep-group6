@@ -1,0 +1,31 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+image,1,03020101,v1,"For given triangle, Find the perimeter of the triangle in terms of $p$",$170 + p$,,,,$170 - p$,$85 - p$,$85 + p$,60,3,Yash\Triangles_Perimeter_Variable\triangle_perimeter_variable1.png,2019yash.kumthekar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+Formula of Perimeter = Sum of all sides of triangle
+Therefore Sum of All Sides = $85$ + $85$ + $p$
+Perimeter = $170$ + $p$
+ThereFore Option $1$ is right selection",
+image,1,03020101,v1,"For given triangle, Find the perimeter of the triangle in terms of $x$",$168 + x$,,,,$84 - x$,$84 + x$,$168 - x$,60,3,Yash\Triangles_Perimeter_Variable\triangle_perimeter_variable2.png,2019yash.kumthekar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+Formula of Perimeter = Sum of all sides of triangle
+Therefore Sum of All Sides = $84$ + $84$ + $x$
+Perimeter = $168$ + $x$
+ThereFore Option $1$ is right selection",
+image,1,03020101,v1,"For given triangle, Find the perimeter of the triangle in terms of $z$",$166 + z$,,,,$83 - z$,$83 + z$,$166 - z$,60,3,Yash\Triangles_Perimeter_Variable\triangle_perimeter_variable3.png,2019yash.kumthekar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+Formula of Perimeter = Sum of all sides of triangle
+Therefore Sum of All Sides = $83$ + $83$ + $z$
+Perimeter = $166$ + $z$
+ThereFore Option $4$ is right selection",
+image,1,03020101,v1,"For given triangle, Find the perimeter of the triangle in terms of $c$",$140 + c$,,,,$67 + c$,$73 - c$,$140 - c$,60,3,Yash\Triangles_Perimeter_Variable\triangle_perimeter_variable4.png,2019yash.kumthekar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+Formula of Perimeter = Sum of all sides of triangle
+Therefore Sum of All Sides = $67$ + $73$ + $c$
+Perimeter = $140$ + $c$
+ThereFore Option $1$ is right selection",
+image,1,03020101,v1,"For given triangle, Find the perimeter of the triangle in terms of $c$",$180 + c$,,,,$180 - c$,$98 - c$,$82 + c$,60,3,Yash\Triangles_Perimeter_Variable\triangle_perimeter_variable5.png,2019yash.kumthekar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+Formula of Perimeter = Sum of all sides of triangle
+Therefore Sum of All Sides = $82$ + $98$ + $c$
+Perimeter = $180$ + $c$
+ThereFore Option $4$ is right selection",
