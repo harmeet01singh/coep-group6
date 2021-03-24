@@ -1,0 +1,31 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+image,text,030203,v1,"If total distance between house and school is $273$, then what is the distance between metro and school ?",$133$,,,,$132$,$130$,$413$,60,3,Negative_Distance_Value_1.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between metro and school = distance between house and school - distance between house and metro 
+=> distance between metro and school = $273 - 140$
+=> distance between metro and school = $133$
+Hence the correct answer is $133$.",
+image,text,030203,v1,"If total distance between park and metro is $229$, then what is the distance between school and metro ?",$166$,,,,$292$,$157$,$169$,60,3,Negative_Distance_Value_2.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between school and metro = distance between park and metro - distance between park and school 
+=> distance between school and metro = $229 - 63$
+=> distance between school and metro = $166$
+Hence the correct answer is $166$.",
+image,text,030203,v1,"If total distance between park and house is $237$, then what is the distance between school and house ?",$120$,,,,$110$,$354$,$121$,60,3,Negative_Distance_Value_3.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between school and house = distance between park and house - distance between park and school 
+=> distance between school and house = $237 - 117$
+=> distance between school and house = $120$
+Hence the correct answer is $120$.",
+image,text,030203,v1,"If total distance between school and metro is $208$, then what is the distance between house and metro ?",$104$,,,,$105$,$111$,$312$,60,3,Negative_Distance_Value_4.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between house and metro = distance between school and metro - distance between school and house 
+=> distance between house and metro = $208 - 104$
+=> distance between house and metro = $104$
+Hence the correct answer is $104$.",
+image,text,030203,v1,"If total distance between house and school is $289$, then what is the distance between metro and school ?",$224$,,,,$354$,$216$,$219$,60,3,Negative_Distance_Value_5.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between metro and school = distance between house and school - distance between house and metro 
+=> distance between metro and school = $289 - 65$
+=> distance between metro and school = $224$
+Hence the correct answer is $224$.",
