@@ -1,0 +1,31 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,030203,1,Find total distance between school and house ?,$205$,,,,$21$,$209$,$211$,60,3,,,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between school and house = distance between school and hospital + distance between hospital and house
+=> distance between school and house = $113 + 92$
+=> distance between school and house = $205$
+Hence the correct answer is $205$.",
+text,1,030203,1,Find total distance between park and school ?,$226$,,,,$58$,$222$,$232$,60,3,,,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between park and school = distance between park and metro + distance between metro and school
+=> distance between park and school = $84 + 142$
+=> distance between park and school = $226$
+Hence the correct answer is $226$.",
+text,1,030203,1,Find total distance between hospital and school ?,$205$,,,,$201$,$204$,$29$,60,3,,,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between hospital and school = distance between hospital and park + distance between park and school
+=> distance between hospital and school = $117 + 88$
+=> distance between hospital and school = $205$
+Hence the correct answer is $205$.",
+text,1,030203,1,Find total distance between metro and school ?,$252$,,,,$258$,$0$,$248$,60,3,,,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between metro and school = distance between metro and park + distance between park and school
+=> distance between metro and school = $126 + 126$
+=> distance between metro and school = $252$
+Hence the correct answer is $252$.",
+text,1,030203,1,Find total distance between metro and house ?,$266$,,,,$72$,$268$,$262$,60,3,,,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between metro and house = distance between metro and park + distance between park and house
+=> distance between metro and house = $97 + 169$
+=> distance between metro and house = $266$
+Hence the correct answer is $266$.",
