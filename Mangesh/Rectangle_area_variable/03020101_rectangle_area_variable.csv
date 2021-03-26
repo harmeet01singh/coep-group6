@@ -1,0 +1,11 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+image,text,03020101,v1,Q) What will be the area of given rectangle ?,$3x$,,,,$x/3$,$x-3$,$3+x$,60,3,rectangle_area_variable1.png,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- => Area of Rectangle = length * breadth => $3$*x => $$3x$$ => ThereFore Option $3$ is right selection",
+image,text,03020101,v1,Q) What will be the area of given rectangle ?,$4x$,,,,$4+x$,$x-4$,$x/4$,60,3,rectangle_area_variable2.png,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- => Area of Rectangle = length * breadth => $4$*x => $$4x$$ => ThereFore Option $3$ is right selection",
+image,text,03020101,v1,Q) What will be the area of given rectangle ?,$5x$,,,,$5+x$,$x-5$,$x/5$,60,3,rectangle_area_variable3.png,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- => Area of Rectangle = length * breadth => $5$*x => $$5x$$ => ThereFore Option $4$ is right selection",
+image,text,03020101,v1,Q) What will be the area of given rectangle ?,$6x$,,,,$x-6$,$x/6$,$6+x$,60,3,rectangle_area_variable4.png,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- => Area of Rectangle = length * breadth => $6$*x => $$6x$$ => ThereFore Option $3$ is right selection",
+image,text,03020101,v1,Q) What will be the area of given rectangle ?,$6x$,,,,$6+x$,$x/6$,$x-6$,60,3,rectangle_area_variable5.png,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- => Area of Rectangle = length * breadth => $6$*x => $$6x$$ => ThereFore Option $1$ is right selection",
