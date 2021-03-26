@@ -1,0 +1,11 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+image,text,030203,v1,"Q) What will be the value of x for given rectangle, here given area is $30$ ?",$6.0$,,,,$11.0$,$1.0$,$30.0$,60,3,rectangle_area_solve1.png,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- => Area of Rectangle = length * breadth => x = $6$ => ThereFore Option $2$ is right selection",
+image,text,030203,v1,"Q) What will be the value of x for given rectangle, here given area is $27$ ?",$9.0$,,,,$12.0$,$27.0$,$6.0$,60,3,rectangle_area_solve2.png,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- => Area of Rectangle = length * breadth => x = $9$ => ThereFore Option $1$ is right selection",
+image,text,030203,v1,"Q) What will be the value of x for given rectangle, here given area is $32$ ?",$8.0$,,,,$32.0$,$12.0$,$4.0$,60,3,rectangle_area_solve3.png,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- => Area of Rectangle = length * breadth => x = $8$ => ThereFore Option $3$ is right selection",
+image,text,030203,v1,"Q) What will be the value of x for given rectangle, here given area is $20$ ?",$5.0$,,,,$20.0$,$9.0$,$1.0$,60,3,rectangle_area_solve4.png,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- => Area of Rectangle = length * breadth => x = $5$ => ThereFore Option $1$ is right selection",
+image,text,030203,v1,"Q) What will be the value of x for given rectangle, here given area is $54$ ?",$9.0$,,,,$3.0$,$15.0$,$54.0$,60,3,rectangle_area_solve5.png,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- => Area of Rectangle = length * breadth => x = $9$ => ThereFore Option $2$ is right selection",
