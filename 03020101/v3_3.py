@@ -52,8 +52,8 @@ def generate_img():
 
 	# Display Image
 	# img.show()
-	image_name = f"Negative_Distance_Variable_{i}.png"
-	img.save(image_name, format="PNG")
+	image_name = f"03020101_NDX_x-{x}.png"
+	img.save('images/' + image_name, format="PNG")
 	return image_name
 
 
@@ -87,7 +87,7 @@ def main_function():
 		Question_Type='image',
 		Answer_Type='text',
 		Topic_Number='03020101',
-		Variation='v1',
+		Variation='v3',
 		Question=Question,
 		Correct_Answer_1=Corr_op,
 		Wrong_Answer_1=wrong_op1,
@@ -103,5 +103,6 @@ putInCsv(
 	Topic_Number='03020101',
 	Number_Of_Iterations=5,
 	Main_Function=main_function,
-	Filename="Negative_Distance_Variable.py"
+	Filename="v3_3.py"
 )
+
