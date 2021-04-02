@@ -5,10 +5,9 @@ from coep_package.latex import latex,to_frac,superscript
 from coep_package.csv import putInCsv, database_fn
 
 given_term,pi,multiple_q = '','\pi ',''
-a,area,image_no = 0,0,1
+a,area = 0,0
 
 def generate_image():
-    global image_no
     margin, multiple = 50, 50
     width = margin*2 + multiple*(a)
     height = multiple*(a) + margin*3
@@ -25,16 +24,18 @@ def generate_image():
     draw.ellipse([a_start_cordinate, a_end_cordinate], fill="red", outline="black", width=1)
     draw.ellipse([(a_start_cordinate[0]+((a/2)*multiple)-2,a_start_cordinate[1]+((a/2)*multiple)-2), (a_end_cordinate[0]-((a/2)*multiple)+2,a_end_cordinate[1]-((a/2)*multiple)+2)], fill="black", outline="black", width=1)
     if(given_term=="radius"):
+        relation='r=x'+ multi
         draw.line([(a_start_cordinate[0]+(a/2)*multiple , a_start_cordinate[1]+(a/2)*multiple), (a_start_cordinate[0]+a*multiple , a_start_cordinate[1]+(a/2)*multiple)], fill="black", width=1)
-        draw.text([a_start_cordinate[0]+((3*a)/4)*multiple-25, a_start_cordinate[1]+(a/2)*multiple], f"r=x{multi}", font=ImageFont.truetype("arial.ttf", size=20), fill="black")
+        draw.text([a_start_cordinate[0]+((3*a)/4)*multiple-25, a_start_cordinate[1]+(a/2)*multiple], f"{relation}", font=ImageFont.truetype("arial.ttf", size=20), fill="black")
     elif(given_term=="diameter"):
+        relation='d=x'+ multi
         draw.line([(a_start_cordinate[0] , a_start_cordinate[1]+(a/2)*multiple), (a_start_cordinate[0]+a*multiple , a_start_cordinate[1]+(a/2)*multiple)], fill="black", width=1)
-        draw.text([a_start_cordinate[0]+((3*a)/4)*multiple-25, a_start_cordinate[1]+(a/2)*multiple], f"d=x{multi}", font=ImageFont.truetype("arial.ttf", size=20), fill="black")
+        draw.text([a_start_cordinate[0]+((3*a)/4)*multiple-25, a_start_cordinate[1]+(a/2)*multiple], f"{relation}", font=ImageFont.truetype("arial.ttf", size=20), fill="black")
 
-    image_temp_name="Circle_area_val"
-    image_name=image_temp_name+str(image_no)+'.png'
-    img.save(image_name, format="PNG")
-    image_no+=1
+    relation = relation.replace('/','-').replace('=','_')
+    image_temp_name="030203_CAV_"+relation[0]+'_'+str(area)+relation[1:]
+    image_name=image_temp_name+'.png'
+    img.save('images/'+image_name, format="PNG")
     return image_name
         
 
@@ -124,7 +125,7 @@ def Main_function():
 	    Question_Type='image',
 	    Answer_Type='text',
 	    Topic_Number='030203',
-	    Variation='v1',
+	    Variation='v5',
 	    Question=question,
 	    Correct_Answer_1=correct_op,
 	    Wrong_Answer_1=wrong_op1,
@@ -139,5 +140,5 @@ putInCsv(
 	Topic_Number='030203',
 	Number_Of_Iterations=5,
 	Main_Function = Main_function,
-	Filename="Circle_area_val.py"
+	Filename="v5_1.py"
 )

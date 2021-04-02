@@ -1,14 +1,12 @@
 from PIL import Image,ImageDraw, ImageFont
 import random
-from os import path
 from coep_package.latex import latex,to_frac,superscript
 from coep_package.csv import putInCsv, database_fn
 
 given_term,pi= "",'\pi '
-a,image_no = 0,1
+a = 0
 
 def generate_image(relation):
-    global image_no
     margin, multiple = 50, 50
     width = margin*2 + multiple*(a)
     height = multiple*(a) + margin*3
@@ -28,10 +26,10 @@ def generate_image(relation):
 
     draw.text([a_start_cordinate[0]+((3*a)/4)*multiple-25, a_start_cordinate[1]+(a/2)*multiple], f"{relation}", font=ImageFont.truetype("arial.ttf", size=20), fill="black")
     
-    image_temp_name="Circle_area_var"
-    image_name=image_temp_name+str(image_no)+'.png'
-    img.save(image_name, format="PNG")
-    image_no+=1
+    relation = relation.replace('/','-').replace('=','_').replace('\u03C0','(pi)')
+    image_temp_name="03020101_CAX_"+relation
+    image_name=image_temp_name+'.png'
+    img.save('images/'+image_name, format="PNG")
     return image_name
 
 def options(correct_option, answer_set ):
@@ -120,7 +118,7 @@ def Main_function():
 	    Question_Type='image',
 	    Answer_Type='text',
 	    Topic_Number='03020101',
-	    Variation='v1',
+	    Variation='v3',
 	    Question=question,
 	    Correct_Answer_1=correct_op,
 	    Wrong_Answer_1=wrong_op1,
@@ -135,5 +133,5 @@ putInCsv(
 	Topic_Number='03020101',
 	Number_Of_Iterations=5,
 	Main_Function = Main_function,
-	Filename="Circle_area_var.py"
+	Filename="v3_1.py"
 )
