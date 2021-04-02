@@ -8,7 +8,6 @@ total_dist = 0
 place_name = []
 a, b, c = 0, 0, 0
 x, y = 0, 0
-i = 0
 
 
 def changeValues():
@@ -18,7 +17,6 @@ def changeValues():
 	a, b, c = random.sample(place_name, k=3)
 	x = random.randint(50, 150)
 	y = total_dist - x
-	i += 1
 
 
 def generate_img():
@@ -50,8 +48,8 @@ def generate_img():
 
 	#Display Image
 	# img.show()
-	image_name = f"Negative_Distance_Value_{i}.png"
-	img.save(image_name, format="PNG")
+	image_name = f"030203_NDV_{x}_{total_dist}.png"
+	img.save('images/' + image_name, format="PNG")
 	return image_name
 
 
@@ -89,7 +87,7 @@ def main_function():
 		Question_Type='image',
 		Answer_Type='text',
 		Topic_Number='030203',
-		Variation='v1',
+		Variation='v5',
 		Question=Question,
 		Correct_Answer_1=Corr_op,
 		Wrong_Answer_1=wrong_op1,
@@ -105,5 +103,6 @@ putInCsv(
 	Topic_Number='030203',
 	Number_Of_Iterations=5,
 	Main_Function=main_function,
-	Filename="Negative_Distance_Value.py"
+	Filename="v5_3.py"
 )
+
