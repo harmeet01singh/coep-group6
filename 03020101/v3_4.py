@@ -8,7 +8,6 @@ total_dist = 0
 place_name = []
 a, b, c = 0, 0, 0
 x = 0
-i = 0
 
 
 def changeValues():
@@ -17,7 +16,6 @@ def changeValues():
 	place_name = ["school", "house", "park", "hospital", "metro"]
 	a, b, c = random.sample(place_name, k=3)
 	x = random.randint(50, 150)
-	i += 1
 
 
 def generate_img():
