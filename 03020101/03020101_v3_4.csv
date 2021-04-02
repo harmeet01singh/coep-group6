@@ -1,0 +1,26 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+image,text,03020101,v3,Find total distance between school and house in terms of x ?,$138 + x$,,,,$x - 138$,$138 - x$,$-(x + 138)$,60,3,03020101_PDX_138+x.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between school and house = distance between school and metro + distance between metro and house 
+=> distance between school and house = $138 + x$ 
+Hence the correct answer is $138 + x$.",
+image,text,03020101,v3,Find total distance between metro and park in terms of x ?,$88 + x$,,,,$88 - x$,$x - 88$,$-(x + 88)$,60,3,03020101_PDX_88+x.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between metro and park = distance between metro and hospital + distance between hospital and park 
+=> distance between metro and park = $88 + x$ 
+Hence the correct answer is $88 + x$.",
+image,text,03020101,v3,Find total distance between school and hospital in terms of x ?,$136 + x$,,,,$x - 136$,$-(x + 136)$,$136 - x$,60,3,03020101_PDX_136+x.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between school and hospital = distance between school and park + distance between park and hospital 
+=> distance between school and hospital = $136 + x$ 
+Hence the correct answer is $136 + x$.",
+image,text,03020101,v3,Find total distance between metro and school in terms of x ?,$113 + x$,,,,$x - 113$,$113 - x$,$-(x + 113)$,60,3,03020101_PDX_113+x.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between metro and school = distance between metro and hospital + distance between hospital and school 
+=> distance between metro and school = $113 + x$ 
+Hence the correct answer is $113 + x$.",
+image,text,03020101,v3,Find total distance between house and school in terms of x ?,$108 + x$,,,,$108 - x$,$-(x + 108)$,$x - 108$,60,3,03020101_PDX_108+x.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between house and school = distance between house and hospital + distance between hospital and school 
+=> distance between house and school = $108 + x$ 
+Hence the correct answer is $108 + x$.",

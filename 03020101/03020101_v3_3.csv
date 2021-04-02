@@ -1,0 +1,26 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+image,text,03020101,v3,"If total distance between park and metro is x, then what is the distance between house and metro in terms of x ?",$x - 73$,,,,$73 + x$,$73 - x$,$-(x + 73)$,60,3,03020101_NDX_x-73.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between house and metro = distance between park and metro - distance between park and house
+=> distance between house and metro = $x - 73$ 
+Hence the correct answer is $x - 73$.",
+image,text,03020101,v3,"If total distance between house and metro is x, then what is the distance between park and metro in terms of x ?",$x - 99$,,,,$-(x + 99)$,$99 + x$,$99 - x$,60,3,03020101_NDX_x-99.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between park and metro = distance between house and metro - distance between house and park
+=> distance between park and metro = $x - 99$ 
+Hence the correct answer is $x - 99$.",
+image,text,03020101,v3,"If total distance between hospital and school is x, then what is the distance between house and school in terms of x ?",$x - 96$,,,,$96 - x$,$96 + x$,$-(x + 96)$,60,3,03020101_NDX_x-96.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between house and school = distance between hospital and school - distance between hospital and house
+=> distance between house and school = $x - 96$ 
+Hence the correct answer is $x - 96$.",
+image,text,03020101,v3,"If total distance between school and hospital is x, then what is the distance between house and hospital in terms of x ?",$x - 125$,,,,$-(x + 125)$,$125 + x$,$125 - x$,60,3,03020101_NDX_x-125.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between house and hospital = distance between school and hospital - distance between school and house
+=> distance between house and hospital = $x - 125$ 
+Hence the correct answer is $x - 125$.",
+image,text,03020101,v3,"If total distance between hospital and school is x, then what is the distance between park and school in terms of x ?",$x - 72$,,,,$-(x + 72)$,$72 + x$,$72 - x$,60,3,03020101_NDX_x-72.png,2019surendra.totre@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+=> distance between park and school = distance between hospital and school - distance between hospital and park
+=> distance between park and school = $x - 72$ 
+Hence the correct answer is $x - 72$.",
