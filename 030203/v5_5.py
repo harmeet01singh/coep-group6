@@ -5,7 +5,7 @@ from coep_package.csv import putInCsv, database_fn
 
 i = 0
 
-def generate_image(l1, b1):
+def generate_image(l1, b1, area):
     margin, multiple = 50, 50
     width = margin*3 + multiple*int(b1)
     height = multiple*(l1) + margin*3
@@ -24,8 +24,8 @@ def generate_image(l1, b1):
               "x", font=ImageFont.truetype("arial.ttf", size=15), fill="black")
     # Display Image
     global image_name
-    image_temp_name="rectangle_area_solve"
-    image_name = image_temp_name + str(i)+'.png'
+    image_temp_name="030203_RAV_"+str(area)+'_'+str(l1)
+    image_name = image_temp_name +'.png'
     img.save(image_name, format="PNG")
     img.show()  
  
@@ -35,7 +35,7 @@ def options(correctAns,l1):
     corans = latex(correctAns)
     allOptions.append(corans)
     secondOption = latex(correctAns + l1)
-    thirdOption = latex(correctAns * l1)
+    thirdOption = latex(2*(l1+correctAns))
     fourthOption = latex(correctAns - l1)
 
     # Appending Other Options
@@ -90,7 +90,7 @@ def main_function():
     Question = getQuestion(area)
     print(Question)
     correctAns,correct_option,wrong_Options = options(b1,l1)
-    generate_image(l1, b1)
+    generate_image(l1, b1, area)
     selected_option = int(input("Select one option: "))
     if selected_option == correctAns:
         print("You have selected the right option!")
@@ -103,7 +103,7 @@ def main_function():
         Question_Type='image',
 	    Answer_Type='text',
 	    Topic_Number='030203',
-	    Variation='v1',
+	    Variation='v5',
 	    Question=Question,
         Correct_Answer_1=correct_option[0],
         Wrong_Answer_1=wrong_Options[0],
@@ -121,7 +121,7 @@ putInCsv(
     Topic_Number='030203',
     Number_Of_Iterations=5,
     Main_Function=main_function,
-    Filename='rectangle_area_solve.py'
+    Filename='v5_5.py'
 )
  
 
