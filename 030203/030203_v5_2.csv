@@ -1,5 +1,15 @@
 Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
-image,text,030203,v5,Find the value of $x$ if the circumference of the circle is $25.12$?,$16$,,,,$8$,$4$,$5$,60,3,030203_CCV_d_25.12_x-2.png,2019chinmay.thakur@ves.ac.in,"
+image,text,030203,v5,Find the value of $x$ if the circumference of the circle is $25.12$?,$8$,,,,$4$,$2$,$7$,60,3,030203_CCV_r_25.12_x-2.png,2019chinmay.thakur@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+                The circumfernece of circle is given as $25.12$.
+                Formula of Circumference = $2\pi r$.
+                                       $r$ =$\dfrac{25.12}{2\pi }$
+                    Therefore, $r$=$8.0$
+
+                Now for $x$, 
+                               $x$=$\dfrac{r}{1/2}$
+                     Therefore,$x$=$8$",
+image,text,030203,v5,Find the value of $x$ if the circumference of the circle is $25.12$?,$2.67$,,,,$8$,$5$,$24$,60,3,030203_CCV_d_25.12_3x.png,2019chinmay.thakur@ves.ac.in,"
 --------------------------------------SOLUTION-------------------------------------------
                 The circumfernece of circle is given as $25.12$.
                 Formula of Circumference = $2\pi r$.
@@ -7,48 +17,38 @@ image,text,030203,v5,Find the value of $x$ if the circumference of the circle is
                     Therefore, $r$=$8.0$
 
                 Now for $x$,
-                               $x$=$\dfrac{d}{1/2}$
+                               $x$=$\dfrac{d}{3}$
                            $d=2*r$=$16.0$
-                     Therefore,$x$=$16$",
-image,text,030203,v5,Find the value of $x$ if the circumference of the circle is $12.56$?,$8$,,,,$2$,$4$,$3$,60,3,030203_CCV_d_12.56_x-2.png,2019chinmay.thakur@ves.ac.in,"
---------------------------------------SOLUTION-------------------------------------------
-                The circumfernece of circle is given as $12.56$.
-                Formula of Circumference = $2\pi r$.
-                                       $r$ =$\dfrac{12.56}{2\pi }$
-                    Therefore, $r$=$4.0$
-
-                Now for $x$,
-                               $x$=$\dfrac{d}{1/2}$
-                           $d=2*r$=$8.0$
-                     Therefore,$x$=$8$",
-image,text,030203,v5,Find the value of $x$ if the circumference of the circle is $12.56$?,$0.67$,,,,$2$,$6$,$3$,60,3,030203_CCV_r_12.56_x3.png,2019chinmay.thakur@ves.ac.in,"
---------------------------------------SOLUTION-------------------------------------------
-                The circumfernece of circle is given as $12.56$.
-                Formula of Circumference = $2\pi r$.
-                                       $r$ =$\dfrac{12.56}{2\pi }$
-                    Therefore, $r$=$4.0$
-
-                Now for $x$, 
-                               $x$=$\dfrac{r}{3}$
-                     Therefore,$x$=$0.67$",
-image,text,030203,v5,Find the value of $x$ if the circumference of the circle is $18.84$?,$12$,,,,$3$,$0.75$,$5$,60,3,030203_CCV_r_18.84_x-4.png,2019chinmay.thakur@ves.ac.in,"
+                     Therefore,$x$=$2.67$",
+image,text,030203,v5,Find the value of $x$ if the circumference of the circle is $18.84$?,$12$,,,,$6$,$4$,$3$,60,3,030203_CCV_d_18.84_x-2.png,2019chinmay.thakur@ves.ac.in,"
 --------------------------------------SOLUTION-------------------------------------------
                 The circumfernece of circle is given as $18.84$.
                 Formula of Circumference = $2\pi r$.
                                        $r$ =$\dfrac{18.84}{2\pi }$
                     Therefore, $r$=$6.0$
 
-                Now for $x$, 
-                               $x$=$\dfrac{r}{1/4}$
+                Now for $x$,
+                               $x$=$\dfrac{d}{1/2}$
+                           $d=2*r$=$12.0$
                      Therefore,$x$=$12$",
-image,text,030203,v5,Find the value of $x$ if the circumference of the circle is $31.4$?,$5$,,,,$20$,$6$,$10$,60,3,030203_CCV_d_31.4_x2.png,2019chinmay.thakur@ves.ac.in,"
+image,text,030203,v5,Find the value of $x$ if the circumference of the circle is $25.12$?,$20$,,,,$0.8$,$7$,$4$,60,3,030203_CCV_r_25.12_x-5.png,2019chinmay.thakur@ves.ac.in,"
 --------------------------------------SOLUTION-------------------------------------------
-                The circumfernece of circle is given as $31.4$.
+                The circumfernece of circle is given as $25.12$.
                 Formula of Circumference = $2\pi r$.
-                                       $r$ =$\dfrac{31.4}{2\pi }$
-                    Therefore, $r$=$10.0$
+                                       $r$ =$\dfrac{25.12}{2\pi }$
+                    Therefore, $r$=$8.0$
+
+                Now for $x$, 
+                               $x$=$\dfrac{r}{1/5}$
+                     Therefore,$x$=$20$",
+image,text,030203,v5,Find the value of $x$ if the circumference of the circle is $12.56$?,$2$,,,,$4$,$8$,$3$,60,3,030203_CCV_d_12.56_2x.png,2019chinmay.thakur@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+                The circumfernece of circle is given as $12.56$.
+                Formula of Circumference = $2\pi r$.
+                                       $r$ =$\dfrac{12.56}{2\pi }$
+                    Therefore, $r$=$4.0$
 
                 Now for $x$,
                                $x$=$\dfrac{d}{2}$
-                           $d=2*r$=$20.0$
-                     Therefore,$x$=$5$",
+                           $d=2*r$=$8.0$
+                     Therefore,$x$=$2$",

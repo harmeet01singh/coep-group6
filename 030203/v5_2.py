@@ -25,11 +25,17 @@ def generate_image():
     draw.ellipse([a_start_cordinate, a_end_cordinate], fill="red", outline="black", width=1)
     draw.ellipse([(a_start_cordinate[0]+((a/2)*multiple)-2,a_start_cordinate[1]+((a/2)*multiple)-2), (a_end_cordinate[0]-((a/2)*multiple)+2,a_end_cordinate[1]-((a/2)*multiple)+2)], fill="black", outline="black", width=1)
     if(given_term=="radius"):
-        relation='r=x'+multi
+        if(multi[0]=='/'):
+            relation='r=x'+ multi
+        else:
+            relation='r='+multi+'x'
         draw.line([(a_start_cordinate[0]+(a/2)*multiple , a_start_cordinate[1]+(a/2)*multiple), (a_start_cordinate[0]+a*multiple , a_start_cordinate[1]+(a/2)*multiple)], fill="black", width=1)
         draw.text([a_start_cordinate[0]+((3*a)/4)*multiple-25, a_start_cordinate[1]+(a/2)*multiple], f"{relation}", font=ImageFont.truetype("arial.ttf", size=20), fill="black")
     elif(given_term=="diameter"):
-        relation='d=x'+multi
+        if(multi[0]=='/'):
+            relation='d=x'+ multi
+        else:
+            relation='d='+multi+'x'
         draw.line([(a_start_cordinate[0] , a_start_cordinate[1]+(a/2)*multiple), (a_start_cordinate[0]+a*multiple , a_start_cordinate[1]+(a/2)*multiple)], fill="black", width=1)
         draw.text([a_start_cordinate[0]+((3*a)/4)*multiple-25, a_start_cordinate[1]+(a/2)*multiple], f"{relation}", font=ImageFont.truetype("arial.ttf", size=20), fill="black")
 
