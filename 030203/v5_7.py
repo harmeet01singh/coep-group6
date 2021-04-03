@@ -82,10 +82,8 @@ def generate_image():
               font=ImageFont.truetype("arial.ttf", size=15), fill="black")
 
     
-    image_temp_name="triangle_perimeter_solve"
-    image_name = image_temp_name + str(i)+'.png'
-    img.save(image_name, format="PNG")
-
+    image_name = f"030203_TPX_{answerList[0]}_{answerList[1]}" + '.png'
+    img.save('images/' + image_name, format="PNG")
     return ans_distance, perimeter_ans, answerList, variable, image_name
 
 def triangleGenerate():
@@ -165,14 +163,7 @@ def options(correctAns, distances):
     return correctIndex, allOptions, wrong_options
 
 def solution(correctAns, distances, variable, perimeter, correctOption):
-    # print("\n--------------------------------------SOLUTION-------------------------------------------")
-    # print(f"Formula of Perimeter = Sum of all sides of triangle")
-    # print(f"Therefore Sum of All Sides = {latex(distances[0])} + {latex(distances[1])} + {latex(variable)}")
-    ans = distances[0] + distances[1]
-    # print(f"Perimeter - {latex(ans)} = {latex(variable)}")
-    # print(f"{latex(perimeter)} - {latex(ans)} = {latex(variable)}")
-    # print(f"{latex(variable)} = {latex(correctAns)}")
-    # print(f'ThereFore Option {latex(correctOption)} is right selection')
+    
 
     soln = "\n--------------------------------------SOLUTION-------------------------------------------\n" + f"Formula of Perimeter = Sum of all sides of triangle\n" + f"Therefore Sum of All Sides = {latex(distances[0])} + {latex(distances[1])} + {latex(variable)}\n" + f"Perimeter - {latex(ans)} = {latex(variable)}\n" + f"{latex(perimeter)} - {latex(ans)} = {latex(variable)}\n" + f"{latex(variable)} = {latex(correctAns)}" + f'\nThereFore Option {latex(correctOption)} is right selection'
 
@@ -184,15 +175,7 @@ def solution(correctAns, distances, variable, perimeter, correctOption):
     print('---------------------------------------------')
     return soln
 
-# correctAns, perimeter, distances, variable = generate_image()
-# print(f"For given triangle, Find the value of {latex(variable)} where perimeter is {latex(perimeter)}")
-# correctOption, allOptions, wrong_options = options(correctAns, distances) 
-# selectedOption = int(input("Select the correct option : "))
-# if selectedOption == correctOption:
-#     print("You have selected the right option!")
-# else:
-#     print("You have selected the wrong option!")
-# soln = solution(correctAns, distances, variable, perimeter, correctOption)
+
 
 #this function generates question
 def getQuestion(variable, perimeter):
@@ -239,7 +222,7 @@ def main_function():
         Question_Type='image',
         Answer_Type='1',
         Topic_Number='030203',
-        Variation='v1',
+        Variation='v5',
         Question=Question,
         Correct_Answer_1=Corr_op,
         Wrong_Answer_1=wrong_op1,
@@ -257,7 +240,7 @@ putInCsv(
     Topic_Number='030203',
     Number_Of_Iterations=5,
     Main_Function=main_function,
-    Filename='triangle_perimeter_solve.py'
+    Filename='v5_7.py'
 )
 
 
