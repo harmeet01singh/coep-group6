@@ -1,0 +1,31 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+image,1,03020101,v3,"For given triangle, Find the perimeter of the triangle in terms of $n$",$156 + n$,,,,$71 + n$,$156 - n$,$85 - n$,60,3,03020101_TPV_71_85.png,2019yash.kumthekar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+Formula of Perimeter = Sum of all sides of triangle
+Therefore Sum of All Sides = $71$ + $85$ + $n$
+Perimeter = $156$ + $n$
+ThereFore Option $1$ is right selection",
+image,1,03020101,v3,"For given triangle, Find the perimeter of the triangle in terms of $z$",$104 + z$,,,,$52 - z$,$104 - z$,$52 + z$,60,3,03020101_TPV_52_52.png,2019yash.kumthekar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+Formula of Perimeter = Sum of all sides of triangle
+Therefore Sum of All Sides = $52$ + $52$ + $z$
+Perimeter = $104$ + $z$
+ThereFore Option $3$ is right selection",
+image,1,03020101,v3,"For given triangle, Find the perimeter of the triangle in terms of $c$",$168 + c$,,,,$92 - c$,$168 - c$,$76 + c$,60,3,03020101_TPV_76_92.png,2019yash.kumthekar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+Formula of Perimeter = Sum of all sides of triangle
+Therefore Sum of All Sides = $76$ + $92$ + $c$
+Perimeter = $168$ + $c$
+ThereFore Option $1$ is right selection",
+image,1,03020101,v3,"For given triangle, Find the perimeter of the triangle in terms of $n$",$146 + n$,,,,$73 - n$,$73 + n$,$146 - n$,60,3,03020101_TPV_73_73.png,2019yash.kumthekar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+Formula of Perimeter = Sum of all sides of triangle
+Therefore Sum of All Sides = $73$ + $73$ + $n$
+Perimeter = $146$ + $n$
+ThereFore Option $2$ is right selection",
+image,1,03020101,v3,"For given triangle, Find the perimeter of the triangle in terms of $m$",$157 + m$,,,,$60 - m$,$97 + m$,$157 - m$,60,3,03020101_TPV_97_60.png,2019yash.kumthekar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+Formula of Perimeter = Sum of all sides of triangle
+Therefore Sum of All Sides = $97$ + $60$ + $m$
+Perimeter = $157$ + $m$
+ThereFore Option $4$ is right selection",
