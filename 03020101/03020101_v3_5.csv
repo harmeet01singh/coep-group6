@@ -1,0 +1,11 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+image,text,03020101,v3,Q) What will be the area of given rectangle ?,$4x$,,,,$4+x$,$x/4$,$x-4$,60,3,03020101_RAX_4.png,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- => Area of Rectangle = length * breadth => $4$*x => $$4x$$ => ThereFore Option $1$ is right selection",
+image,text,03020101,v3,Q) What will be the area of given rectangle ?,$6x$,,,,$x/6$,$x-6$,$6+x$,60,3,03020101_RAX_6.png,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- => Area of Rectangle = length * breadth => $6$*x => $$6x$$ => ThereFore Option $4$ is right selection",
+image,text,03020101,v3,Q) What will be the area of given rectangle ?,$7x$,,,,$7+x$,$x-7$,$x/7$,60,3,03020101_RAX_7.png,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- => Area of Rectangle = length * breadth => $7$*x => $$7x$$ => ThereFore Option $1$ is right selection",
+image,text,03020101,v3,Q) What will be the area of given rectangle ?,$3x$,,,,$x/3$,$3+x$,$x-3$,60,3,03020101_RAX_3.png,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- => Area of Rectangle = length * breadth => $3$*x => $$3x$$ => ThereFore Option $2$ is right selection",
+image,text,03020101,v3,Q) What will be the area of given rectangle ?,$2x$,,,,$x/2$,$x-2$,$2+x$,60,3,03020101_RAX_2.png,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- => Area of Rectangle = length * breadth => $2$*x => $$2x$$ => ThereFore Option $3$ is right selection",
