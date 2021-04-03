@@ -1,0 +1,11 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+image,text,030203,v5,"Q) What will be the value of x for given rectangle,here given perimeter is $28$ ?",$10.0$,,,,$6.0$,$14.0$,$40.0$,60,3,030203_RPV_28_4.png,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- => perimeter of Rectangle = 2(length + breadth) => x = $10.0$ => ThereFore Option $4$ is right selection",
+image,text,030203,v5,"Q) What will be the value of x for given rectangle,here given perimeter is $22$ ?",$6.0$,,,,$1.0$,$11.0$,$30.0$,60,3,030203_RPV_22_5.png,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- => perimeter of Rectangle = 2(length + breadth) => x = $6.0$ => ThereFore Option $2$ is right selection",
+image,text,030203,v5,"Q) What will be the value of x for given rectangle,here given perimeter is $22$ ?",$8.0$,,,,$24.0$,$5.0$,$11.0$,60,3,030203_RPV_22_3.png,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- => perimeter of Rectangle = 2(length + breadth) => x = $8.0$ => ThereFore Option $4$ is right selection",
+image,text,030203,v5,"Q) What will be the value of x for given rectangle,here given perimeter is $30$ ?",$9.0$,,,,$15.0$,$54.0$,$3.0$,60,3,030203_RPV_30_6.png,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- => perimeter of Rectangle = 2(length + breadth) => x = $9.0$ => ThereFore Option $1$ is right selection",
+image,text,030203,v5,"Q) What will be the value of x for given rectangle,here given perimeter is $24$ ?",$6.0$,,,,$12.0$,$0.0$,$36.0$,60,3,030203_RPV_24_6.png,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION------------------------------------------- => perimeter of Rectangle = 2(length + breadth) => x = $6.0$ => ThereFore Option $4$ is right selection",
