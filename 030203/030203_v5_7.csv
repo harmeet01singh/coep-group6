@@ -1,0 +1,41 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+image,1,030203,v5,"For given triangle, Find the value of $a$ where perimeter is $271$",$65$,,,,$64$,$67$,$103$,60,3,030203_TPX_103_103.png,2019yash.kumthekar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+Formula of Perimeter = Sum of all sides of triangle
+Therefore Sum of All Sides = $103$ + $103$ + $a$
+Perimeter - $206$ = $a$
+$271$ - $206$ = $a$
+$a$ = $65$
+ThereFore Option $1$ is right selection",
+image,1,030203,v5,"For given triangle, Find the value of $b$ where perimeter is $220$",$64$,,,,$76$,$63$,$65$,60,3,030203_TPX_76_80.png,2019yash.kumthekar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+Formula of Perimeter = Sum of all sides of triangle
+Therefore Sum of All Sides = $76$ + $80$ + $b$
+Perimeter - $156$ = $b$
+$220$ - $156$ = $b$
+$b$ = $64$
+ThereFore Option $2$ is right selection",
+image,1,030203,v5,"For given triangle, Find the value of $c$ where perimeter is $294$",$80$,,,,$78$,$106$,$81$,60,3,030203_TPX_106_108.png,2019yash.kumthekar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+Formula of Perimeter = Sum of all sides of triangle
+Therefore Sum of All Sides = $106$ + $108$ + $c$
+Perimeter - $214$ = $c$
+$294$ - $214$ = $c$
+$c$ = $80$
+ThereFore Option $2$ is right selection",
+image,1,030203,v5,"For given triangle, Find the value of $c$ where perimeter is $265$",$87$,,,,$82$,$94$,$88$,60,3,030203_TPX_94_84.png,2019yash.kumthekar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+Formula of Perimeter = Sum of all sides of triangle
+Therefore Sum of All Sides = $94$ + $84$ + $c$
+Perimeter - $178$ = $c$
+$265$ - $178$ = $c$
+$c$ = $87$
+ThereFore Option $3$ is right selection",
+image,1,030203,v5,"For given triangle, Find the value of $n$ where perimeter is $288$",$116$,,,,$67$,$121$,$113$,60,3,030203_TPX_67_105.png,2019yash.kumthekar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+Formula of Perimeter = Sum of all sides of triangle
+Therefore Sum of All Sides = $67$ + $105$ + $n$
+Perimeter - $172$ = $n$
+$288$ - $172$ = $n$
+$n$ = $116$
+ThereFore Option $4$ is right selection",
