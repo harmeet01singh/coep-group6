@@ -24,8 +24,8 @@ def generate_image(l1, b1):
     draw.text((margin + (a_end_cordinate[0] - margin)//2, a_end_cordinate[1] + 50),
               "x", font=ImageFont.truetype("arial.ttf", size=15), fill="black")
     # Display Image
-    image_temp_name="rectangle_area_variable"
-    image_name = image_temp_name + str(i)+'.png'
+    image_temp_name="03020101_RAX_"+str(l1)
+    image_name = image_temp_name +'.png'
     img.save(image_name, format="PNG")
     img.show() 
      
@@ -71,7 +71,7 @@ def changeValues():
     global correctAnswer, wrong_Options, soln_print, i
     
     # Getting random value oflength and breadth
-    l1 = random.randint(3, 6)
+    l1 = random.randint(2, 7)
     b1 = random.randint(5, 10) 
     area = latex(str(l1)+"x")
     i +=1
@@ -101,7 +101,7 @@ def main_function():
         Question_Type='image',
 	    Answer_Type='text',
 	    Topic_Number='03020101',
-	    Variation='v1',
+	    Variation='v3',
 	    Question=Question,
         Correct_Answer_1=correct_option[0],
         Wrong_Answer_1=wrong_Options[0],
@@ -119,7 +119,7 @@ putInCsv(
     Topic_Number='03020101',
     Number_Of_Iterations=5,
     Main_Function=main_function,
-    Filename='rectangle_area_variable.py'
+    Filename='v3_5.py'
 )
  
 
