@@ -22,11 +22,12 @@ def generate_image(l1, b1):
     draw.text((margin + a_end_cordinate[0],margin + (a_end_cordinate[1] - margin)//2),
               str(l1), font=ImageFont.truetype("arial.ttf", size=15), fill="black")
     
+    \
     draw.text((margin + (a_end_cordinate[0] - margin)//2, a_end_cordinate[1] + 50),
               "x", font=ImageFont.truetype("arial.ttf", size=15), fill="black")
     # Display Image
-    image_temp_name="rectangle_perimeter_var"
-    image_name = image_temp_name + str(i)+'.png'
+    image_temp_name="03020101_RPX_"+str(l1)
+    image_name = image_temp_name +'.png'
     img.save(image_name, format="PNG")
     img.show() 
  
@@ -93,7 +94,6 @@ def main_function():
     print(Question)
     correctAns,correct_option,wrong_Options = options(perimeter,l1,b1)
     generate_image(l1, b1)
-    #imagepath = generate_image()
     selected_option = int(input("Select one option: "))
     if selected_option == correctAns:
         print("You have selected the right option!")
@@ -106,7 +106,7 @@ def main_function():
         Question_Type='image',
 	    Answer_Type='text',
 	    Topic_Number='03020101',
-	    Variation='v1',
+	    Variation='v3',
 	    Question=Question,
         Correct_Answer_1=correct_option[0],
         Wrong_Answer_1=wrong_Options[0],
@@ -124,7 +124,7 @@ putInCsv(
     Topic_Number='03020101',
     Number_Of_Iterations=5,
     Main_Function=main_function,
-    Filename='rectangle_perimeter_variable.py'
+    Filename='v3_6.py'
 )
  
 
