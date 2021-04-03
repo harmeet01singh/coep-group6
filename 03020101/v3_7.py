@@ -78,10 +78,9 @@ def generate_image():
         draw.text((text[4], text[5]), f"{distance2}",
               font=ImageFont.truetype("arial.ttf", size=15), fill="black")
 
-    
-    image_temp_name="triangle_perimeter_variable"
-    image_name = image_temp_name + str(i)+'.png'
-    img.save(image_name, format="PNG")
+
+    image_name = f"03020101_TPV_{answerList[0]}_{answerList[1]}" + '.png'
+    img.save('images/' + image_name, format="PNG")
     return perimeter_ans, answerList, variable, image_name
 
 def triangleGenerate():
@@ -158,7 +157,6 @@ def options(correctAns, distances):
             correctIndex = i
         else:
             wrong_options.append(allOptions[i-1])
-        # print(f'{i}. {allOptions[i - 1]}')
 
     return correctIndex, allOptions, wrong_options
 
@@ -173,17 +171,6 @@ def solution(correctAns, distances, correctOption):
 
     soln = "\n--------------------------------------SOLUTION-------------------------------------------\n" + f"Formula of Perimeter = Sum of all sides of triangle\n" + f"Therefore Sum of All Sides = {latex(distances[0])} + {latex(distances[1])} + {latex(value[1])}\n" + f"Perimeter = {latex(ans)} + {latex(value[1])}\n" + f'ThereFore Option {latex(correctOption)} is right selection'
     return soln
-
-# correctAns, distances = generate_image()
-# value = correctAns.split(" + ")
-# print(f"For given triangle, Find the perimeter of the triangle in terms of {latex(value[1])}")
-# correctOption, allOptions, wrong_options = options(correctAns, distances)
-# selectedOption = int(input("Select the correct option : "))
-# if selectedOption == correctOption:
-#     print("You have selected the right option!")
-# else:
-#     print("You have selected the wrong option!")
-# soln = solution(correctAns, distances, correctOption)
 
 
 #this function generates question
@@ -231,7 +218,7 @@ def main_function():
         Question_Type='image',
         Answer_Type='1',
         Topic_Number='03020101',
-        Variation='v1',
+        Variation='v3',
         Question=Question,
         Correct_Answer_1=Corr_op,
         Wrong_Answer_1=wrong_op1,
@@ -249,5 +236,5 @@ putInCsv(
     Topic_Number='03020101',
     Number_Of_Iterations=5,
     Main_Function=main_function,
-    Filename='triangle_perimeter_variable.py'
+    Filename='v3_7.py'
 )
