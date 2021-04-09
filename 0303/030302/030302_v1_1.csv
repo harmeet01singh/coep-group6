@@ -1,0 +1,32 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,text,30302,v1,Simplify The Given Expression :$48+26\times25\div10$,$113$,,,,$185$,$58.4$,$3120$,60,3,,2019chinmay.thakur@ves.ac.in,"-------SOLUTION-------<br/>
+$48+26\times25\div10$<br/>
+$=48+650\div10$<br/>
+$=48+65$<br/>
+$=113$<br/>
+Hence, the correct option is $113$.",
+text,text,30302,v1,Simplify The Given Expression :$39\times21+29\div9$,$822.22$,,,,$216.67$,$262.86$,$2639$,60,3,,2019chinmay.thakur@ves.ac.in,"-------SOLUTION-------<br/>
+$39\times21+29\div9$<br/>
+$=819+29\div9$<br/>
+$=819+3.2222$<br/>
+$=822.2222$<br/>
+$=822.22$<br/>
+Hence, the correct option is $822.22$.",
+text,text,30302,v1,Simplify The Given Expression :$36\div8-38\times47$,$-1781.5$,,,,$-56.4$,$287.19$,$5.57$,60,3,,2019chinmay.thakur@ves.ac.in,"-------SOLUTION-------<br/>
+$36\div8-38\times47$<br/>
+$=4.5-38\times47$<br/>
+$=4.5-1786$<br/>
+$=-1781.5$<br/>
+Hence, the correct option is $-1781.5$.",
+text,text,30302,v1,Simplify The Given Expression :$38-17\div5\times8$,$10.8$,,,,$33.6$,$27.38$,$3.58$,60,3,,2019chinmay.thakur@ves.ac.in,"-------SOLUTION-------<br/>
+$38-17\div5\times8$<br/>
+$=38-3.4\times8$<br/>
+$=38-27.2$<br/>
+$=10.8$<br/>
+Hence, the correct option is $10.8$.",
+text,text,30302,v1,Simplify The Given Expression :$42\div3-32\times45$,$-1426$,,,,$-65.17$,$125.29$,$19.69$,60,3,,2019chinmay.thakur@ves.ac.in,"-------SOLUTION-------<br/>
+$42\div3-32\times45$<br/>
+$=14-32\times45$<br/>
+$=14-1440$<br/>
+$=-1426$<br/>
+Hence, the correct option is $-1426$.",
