@@ -1,0 +1,151 @@
+
+    
+ =======================Question======================= 
+ Simplify the following expression<br/>$\left(\dfrac{2}{6} + \dfrac{9}{5}\right) - \left(\dfrac{2}{8} + \dfrac{5}{4}\right)$ 
+ 
+    
+ =======================Correct answers======================= 
+ $19/30$,
+ ,
+ ,
+ 
+    
+ =======================Wrong answers======================= 
+ $1/50$,
+ $109/30$,
+ $-7/15$,
+
+    
+ =======================Solution======================= 
+ --------------------------------------SOLUTION-------------------------------------------<br/>
+= $\left(\dfrac{2}{6} + \dfrac{9}{5}\right) - \left(\dfrac{2}{8} + \dfrac{5}{4}\right)$<br/>
+= $\dfrac{(2\times5) + (9\times6)}{6\times5} - \dfrac{(2\times4) + (5\times8)}{8\times4}$<br/>
+= $\dfrac{(10 + 54)}{30} - \dfrac{(8 + 40)}{32}$<br/>
+= $\dfrac{64}{30} - \dfrac{48}{32}$<br/>
+= $\dfrac{(32\times2) - (3\times15)}{(15\times2)}$<br/>
+= $\dfrac{(64 - 45)}{30}$<br/>
+= $\dfrac{19}{30}$<br/>
+<br/>
+Hence the correct answer is $\dfrac{19}{30}$. 
+
+    
+    
+ =======================Question======================= 
+ Simplify the following expression<br/>$\left(\dfrac{6}{9} - \dfrac{7}{4}\right) - \left(\dfrac{8}{4} - \dfrac{1}{5}\right)$ 
+ 
+    
+ =======================Correct answers======================= 
+ $-173/60$,
+ ,
+ ,
+ 
+    
+ =======================Wrong answers======================= 
+ $253/60$,
+ $-41/900$,
+ $37/60$,
+
+    
+ =======================Solution======================= 
+ --------------------------------------SOLUTION-------------------------------------------<br/>
+= $\left(\dfrac{6}{9} - \dfrac{7}{4}\right) - \left(\dfrac{8}{4} - \dfrac{1}{5}\right)$<br/>
+= $\dfrac{(6\times4) - (7\times9)}{9\times4} - \dfrac{(8\times5) - (1\times4)}{4\times5}$<br/>
+= $\dfrac{(24 - 63)}{36} - \dfrac{(40 - 4)}{20}$<br/>
+= $\dfrac{-39}{36} - \dfrac{36}{20}$<br/>
+= $\dfrac{(-13\times5) - (9\times12)}{(12\times5)}$<br/>
+= $\dfrac{(-65 - 108)}{60}$<br/>
+= $\dfrac{-173}{60}$<br/>
+<br/>
+Hence the correct answer is $\dfrac{-173}{60}$. 
+
+    
+    
+ =======================Question======================= 
+ Simplify the following expression<br/>$\left(\dfrac{7}{1} + \dfrac{8}{4}\right) - \left(\dfrac{5}{1} - \dfrac{8}{6}\right)$ 
+ 
+    
+ =======================Correct answers======================= 
+ $16/3$,
+ ,
+ ,
+ 
+    
+ =======================Wrong answers======================= 
+ $4/3$,
+ $25/9$,
+ $46/3$,
+
+    
+ =======================Solution======================= 
+ --------------------------------------SOLUTION-------------------------------------------<br/>
+= $\left(\dfrac{7}{1} + \dfrac{8}{4}\right) - \left(\dfrac{5}{1} - \dfrac{8}{6}\right)$<br/>
+= $\dfrac{(7\times4) + (8\times1)}{1\times4} - \dfrac{(5\times6) - (8\times1)}{1\times6}$<br/>
+= $\dfrac{(28 + 8)}{4} - \dfrac{(30 - 8)}{6}$<br/>
+= $\dfrac{36}{4} - \dfrac{22}{6}$<br/>
+= $\dfrac{(9\times3) - (11\times1)}{(1\times3)}$<br/>
+= $\dfrac{(27 - 11)}{3}$<br/>
+= $\dfrac{16}{3}$<br/>
+<br/>
+Hence the correct answer is $\dfrac{16}{3}$. 
+
+    
+    
+ =======================Question======================= 
+ Simplify the following expression<br/>$\left(\dfrac{8}{3} - \dfrac{7}{6}\right) + \left(\dfrac{9}{8} + \dfrac{6}{7}\right)$ 
+ 
+    
+ =======================Correct answers======================= 
+ $195/56$,
+ ,
+ ,
+ 
+    
+ =======================Wrong answers======================= 
+ $197/3136$,
+ $69/56$,
+ $977/168$,
+
+    
+ =======================Solution======================= 
+ --------------------------------------SOLUTION-------------------------------------------<br/>
+= $\left(\dfrac{8}{3} - \dfrac{7}{6}\right) + \left(\dfrac{9}{8} + \dfrac{6}{7}\right)$<br/>
+= $\dfrac{(8\times6) - (7\times3)}{3\times6} + \dfrac{(9\times7) + (6\times8)}{8\times7}$<br/>
+= $\dfrac{(48 - 21)}{18} + \dfrac{(63 + 48)}{56}$<br/>
+= $\dfrac{27}{18} + \dfrac{111}{56}$<br/>
+= $\dfrac{(3\times56) + (111\times2)}{(2\times56)}$<br/>
+= $\dfrac{(168 + 222)}{112}$<br/>
+= $\dfrac{390}{112}$<br/>
+=$\dfrac{195}{56}$<br/>
+Hence the correct answer is $\dfrac{195}{56}$. 
+
+    
+    
+ =======================Question======================= 
+ Simplify the following expression<br/>$\left(\dfrac{4}{5} - \dfrac{3}{7}\right) - \left(\dfrac{9}{7} + \dfrac{1}{6}\right)$ 
+ 
+    
+ =======================Correct answers======================= 
+ $-227/210$,
+ ,
+ ,
+ 
+    
+ =======================Wrong answers======================= 
+ $-157/210$,
+ $-58/11025$,
+ $563/210$,
+
+    
+ =======================Solution======================= 
+ --------------------------------------SOLUTION-------------------------------------------<br/>
+= $\left(\dfrac{4}{5} - \dfrac{3}{7}\right) - \left(\dfrac{9}{7} + \dfrac{1}{6}\right)$<br/>
+= $\dfrac{(4\times7) - (3\times5)}{5\times7} - \dfrac{(9\times6) + (1\times7)}{7\times6}$<br/>
+= $\dfrac{(28 - 15)}{35} - \dfrac{(54 + 7)}{42}$<br/>
+= $\dfrac{13}{35} - \dfrac{61}{42}$<br/>
+= $\dfrac{(13\times42) - (61\times35)}{(35\times42)}$<br/>
+= $\dfrac{(546 - 2135)}{1470}$<br/>
+= $\dfrac{-1589}{1470}$<br/>
+=$\dfrac{-227}{210}$<br/>
+Hence the correct answer is $\dfrac{-227}{210}$. 
+
+    
