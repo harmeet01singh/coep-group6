@@ -1,0 +1,41 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,text,30301,v1,Q)Simplify the following expression by applying the BODMAS rule : $50$\div$4$\times$5-40$,$[(50$\div$4)$\times$5]-40$,,,,$[(50-4)$\times$(5$\div$40)]$,$[50$\div$(4$\times$5)-40]$,$[(50$\div$4)$\times$(5-40)]$,60,3,,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+As per the BODMAS rule:
+Rule 1- DM: if more than one operation is to be carried out, then multiplication and division are carried out first,
+            in the order in which they occur from left to right,hence the expression becomes $[(50$\div$4)$\times$5]$
+Rule 2- AS: After that, addition and subtraction are carried out.
+            in the order in which they occur from left to right,hence the expression becomes $[(50$\div$4)$\times$5]-40$
+Therefore option $2$ is right selection ",
+text,text,30301,v1,Q)Simplify the following expression by applying the BODMAS rule : $48$\times$7$\div$8-26$,$[(48$\times$7)$\div$8]-26$,,,,$[(48$\times$7)$\div$(8-26)]$,$[48$\times$(7$\div$8)-26]$,$[(48-7)$\div$(8$\times$26)]$,60,3,,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+As per the BODMAS rule:
+Rule 1- DM: if more than one operation is to be carried out, then multiplication and division are carried out first,
+            in the order in which they occur from left to right,hence the expression becomes $[(48$\times$7)$\div$8]$
+Rule 2- AS: After that, addition and subtraction are carried out.
+            in the order in which they occur from left to right,hence the expression becomes $[(48$\times$7)$\div$8]-26$
+Therefore option $2$ is right selection ",
+text,text,30301,v1,Q)Simplify the following expression by applying the BODMAS rule : $46$\div$6$\times$15+38$,$[(46$\div$6)$\times$15]+38$,,,,$[(46+6)$\times$(15$\div$38)]$,$[46$\div$(6$\times$15)+38]$,$[(46$\div$6)$\times$(15+38)]$,60,3,,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+As per the BODMAS rule:
+Rule 1- DM: if more than one operation is to be carried out, then multiplication and division are carried out first,
+            in the order in which they occur from left to right,hence the expression becomes $[(46$\div$6)$\times$15]$
+Rule 2- AS: After that, addition and subtraction are carried out.
+            in the order in which they occur from left to right,hence the expression becomes $[(46$\div$6)$\times$15]+38$
+Therefore option $1$ is right selection ",
+text,text,30301,v1,Q)Simplify the following expression by applying the BODMAS rule : $40$\times$9$\div$12-27$,$[(40$\times$9)$\div$12]-27$,,,,$[40$\times$(9$\div$12)-27]$,$[(40-9)$\div$(12$\times$27)]$,$[(40$\times$9)$\div$(12-27)]$,60,3,,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+As per the BODMAS rule:
+Rule 1- DM: if more than one operation is to be carried out, then multiplication and division are carried out first,
+            in the order in which they occur from left to right,hence the expression becomes $[(40$\times$9)$\div$12]$
+Rule 2- AS: After that, addition and subtraction are carried out.
+            in the order in which they occur from left to right,hence the expression becomes $[(40$\times$9)$\div$12]-27$
+Therefore option $4$ is right selection ",
+text,text,30301,v1,Q)Simplify the following expression by applying the BODMAS rule : $41$\times$7$\div$6-32$,$[(41$\times$7)$\div$6]-32$,,,,$[(41-7)$\div$(6$\times$32)]$,$[41$\times$(7$\div$6)-32]$,$[(41$\times$7)$\div$(6-32)]$,60,3,,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+As per the BODMAS rule:
+Rule 1- DM: if more than one operation is to be carried out, then multiplication and division are carried out first,
+            in the order in which they occur from left to right,hence the expression becomes $[(41$\times$7)$\div$6]$
+Rule 2- AS: After that, addition and subtraction are carried out.
+            in the order in which they occur from left to right,hence the expression becomes $[(41$\times$7)$\div$6]-32$
+Therefore option $1$ is right selection ",

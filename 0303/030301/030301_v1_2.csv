@@ -1,0 +1,51 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,text,30301,v1,Q)Simplify the following expression by applying the BODMAS rule : $76$\times$(47+9-19)-30$,$[(76$\times$37)-30]$,,,,$[(76$\div$30)$\times$37]$,$[(76$\times$67)]$,$[37$\times$(76-30)]$,60,3,,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+As per the BODMAS rule:
+Rule 1 - B : First solve the brackets,hence the expression becomes $(37)$
+Rule 2 - DM: If more than one operation is to be carried out, then multiplication and division are carried out first,
+             in the order in which they occur from left to right,hence the expression becomes $(76$\times$37)$
+Rule 3 - AS: After that, addition and subtraction are carried out in the order in which they occur from left to right,
+             hence the expression becomes $[(76$\times$37)-30]$
+Therefore option $2$ is right selection
+  ",
+text,text,30301,v1,Q)Simplify the following expression by applying the BODMAS rule : $60$\div$(55+6-13)-57$,$[(60$\div$48)-57]$,,,,$[(60$\div$105)]$,$[48$\div$(60-57)]$,$[(60$\times$57)$\div$48]$,60,3,,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+As per the BODMAS rule:
+Rule 1 - B : First solve the brackets,hence the expression becomes $(48)$
+Rule 2 - DM: If more than one operation is to be carried out, then multiplication and division are carried out first,
+             in the order in which they occur from left to right,hence the expression becomes $(60$\div$48)$
+Rule 3 - AS: After that, addition and subtraction are carried out in the order in which they occur from left to right,
+             hence the expression becomes $[(60$\div$48)-57]$
+Therefore option $4$ is right selection
+  ",
+text,text,30301,v1,Q)Simplify the following expression by applying the BODMAS rule : $44$\div$(83-9+13)+36$,$[(44$\div$79)+36]$,,,,$[(44$\div$115)]$,$[(44$\times$36)$\div$79]$,$[79$\div$(44+36)]$,60,3,,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+As per the BODMAS rule:
+Rule 1 - B : First solve the brackets,hence the expression becomes $(79)$
+Rule 2 - DM: If more than one operation is to be carried out, then multiplication and division are carried out first,
+             in the order in which they occur from left to right,hence the expression becomes $(44$\div$79)$
+Rule 3 - AS: After that, addition and subtraction are carried out in the order in which they occur from left to right,
+             hence the expression becomes $[(44$\div$79)+36]$
+Therefore option $1$ is right selection
+  ",
+text,text,30301,v1,Q)Simplify the following expression by applying the BODMAS rule : $62$\div$(82-9+13)+45$,$[(62$\div$78)+45]$,,,,$[(62$\times$45)$\div$78]$,$[78$\div$(62+45)]$,$[(62$\div$123)]$,60,3,,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+As per the BODMAS rule:
+Rule 1 - B : First solve the brackets,hence the expression becomes $(78)$
+Rule 2 - DM: If more than one operation is to be carried out, then multiplication and division are carried out first,
+             in the order in which they occur from left to right,hence the expression becomes $(62$\div$78)$
+Rule 3 - AS: After that, addition and subtraction are carried out in the order in which they occur from left to right,
+             hence the expression becomes $[(62$\div$78)+45]$
+Therefore option $1$ is right selection
+  ",
+text,text,30301,v1,Q)Simplify the following expression by applying the BODMAS rule : $66$\div$(54-6+20)+69$,$[(66$\div$40)+69]$,,,,$[40$\div$(66+69)]$,$[(66$\times$69)$\div$40]$,$[(66$\div$109)]$,60,3,,2019mangesh.sokalwar@ves.ac.in,"
+--------------------------------------SOLUTION-------------------------------------------
+As per the BODMAS rule:
+Rule 1 - B : First solve the brackets,hence the expression becomes $(40)$
+Rule 2 - DM: If more than one operation is to be carried out, then multiplication and division are carried out first,
+             in the order in which they occur from left to right,hence the expression becomes $(66$\div$40)$
+Rule 3 - AS: After that, addition and subtraction are carried out in the order in which they occur from left to right,
+             hence the expression becomes $[(66$\div$40)+69]$
+Therefore option $1$ is right selection
+  ",
