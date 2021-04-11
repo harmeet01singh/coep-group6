@@ -1,0 +1,151 @@
+
+    
+ =======================Question======================= 
+ Solve the given expression and round the decimal place up to 2 digits at each step
+${101 + [((-35) \div 60 + (-143)) \times 107 - (-100)] + 77 } \div 59$ 
+ 
+    
+ =======================Correct answers======================= 
+ $-255.68$,
+ ,
+ ,
+ 
+    
+ =======================Wrong answers======================= 
+ $-25246$,
+ $6.69$,
+ $1189697.26$,
+
+    
+ =======================Solution======================= 
+ = ${101 + [((-35) \div 60 + (-143)) \times 107 - (-100)] + 77 } \div 59$<br/>
+= ${101 + [(-0.58 + (-143)) \times 107 - (-100)] + 77} \div 59$<br/>
+= ${101 + [-143.58 \times 107 - (-100)] + 77} \div 59$<br/>
+= ${101 + [-15363.06 - (-100)] + 77} \div 59$<br/>
+= ${101 + -15263.06 + 77} \div 59$<br/>
+= ${-15162.06 + 77} \div 59$<br/>
+= $-15085.06 \div 59$<br/>
+= $-255.68$<br/>
+Therefore option $3$ is right selection 
+
+    
+    
+ =======================Question======================= 
+ Solve the given expression and round the decimal place up to 2 digits at each step
+${54 \div [((-70) \times 96 + 39) \div 112 \times 19] + 24 } - (-148)$ 
+ 
+    
+ =======================Correct answers======================= 
+ $171.95$,
+ ,
+ ,
+ 
+    
+ =======================Wrong answers======================= 
+ $3176.6$,
+ $149.97$,
+ $9039$,
+
+    
+ =======================Solution======================= 
+ = ${54 \div [((-70) \times 96 + 39) \div 112 \times 19] + 24 } - (-148)$<br/>
+= ${54 \div [(-6720 + 39) \div 112 \times 19] + 24} - (-148)$<br/>
+= ${54 \div [-6681 \div 112 \times 19] + 24} - (-148)$<br/>
+= ${54 \div [-59.65 \times 19] + 24} - (-148)$<br/>
+= ${54 \div -1133.35 + 24} - (-148)$<br/>
+= ${-0.05 + 24} - (-148)$<br/>
+= $23.95 - (-148)$<br/>
+= $171.95$<br/>
+Therefore option $4$ is right selection 
+
+    
+    
+ =======================Question======================= 
+ Solve the given expression and round the decimal place up to 2 digits at each step
+${115 \div [((-88) + 40 \times 51) \div 72 + (-89)] \times 46 } \div 98$ 
+ 
+    
+ =======================Correct answers======================= 
+ $-0.87$,
+ ,
+ ,
+ 
+    
+ =======================Wrong answers======================= 
+ $3.0$,
+ $2.0$,
+ $-82367$,
+
+    
+ =======================Solution======================= 
+ = ${115 \div [((-88) + 40 \times 51) \div 72 + (-89)] \times 46 } \div 98$<br/>
+= ${115 \div [((-88) + 2040) \div 72 + (-89)] \times 46} \div 98$<br/>
+= ${115 \div [1952 \div 72 + (-89)] \times 46} \div 98$<br/>
+= ${115 \div [27.11 + (-89)] \times 46} \div 98$<br/>
+= ${115 \div -61.89 \times 46} \div 98$<br/>
+= ${-1.86 \times 46} \div 98$<br/>
+= $-85.56 \div 98$<br/>
+= $-0.87$<br/>
+Therefore option $1$ is right selection 
+
+    
+    
+ =======================Question======================= 
+ Solve the given expression and round the decimal place up to 2 digits at each step
+${26 \div [(77 + 121 + 80) + 105 + (-119)] \times 35 } \div 37$ 
+ 
+    
+ =======================Correct answers======================= 
+ $0.09$,
+ ,
+ ,
+ 
+    
+ =======================Wrong answers======================= 
+ $-9250$,
+ $3.0$,
+ $3.0$,
+
+    
+ =======================Solution======================= 
+ = ${26 \div [(77 + 121 + 80) + 105 + (-119)] \times 35 } \div 37$<br/>
+= ${26 \div [(77 + 201) + 105 + (-119)] \times 35} \div 37$<br/>
+= ${26 \div [278 + 105 + (-119)] \times 35} \div 37$<br/>
+= ${26 \div [383 + (-119)] \times 35} \div 37$<br/>
+= ${26 \div 264 \times 35} \div 37$<br/>
+= ${0.1 \times 35} \div 37$<br/>
+= $3.5 \div 37$<br/>
+= $0.09$<br/>
+Therefore option $4$ is right selection 
+
+    
+    
+ =======================Question======================= 
+ Solve the given expression and round the decimal place up to 2 digits at each step
+${27 - [((-133) - 60 - (-6)) \div 70 \div (-17)] \div 99 } \div (-102)$ 
+ 
+    
+ =======================Correct answers======================= 
+ $-0.26$,
+ ,
+ ,
+ 
+    
+ =======================Wrong answers======================= 
+ $3.74$,
+ $3.74$,
+ $274$,
+
+    
+ =======================Solution======================= 
+ = ${27 - [((-133) - 60 - (-6)) \div 70 \div (-17)] \div 99 } \div (-102)$<br/>
+= ${27 - [((-133) - 66) \div 70 \div (-17)] \div 99} \div (-102)$<br/>
+= ${27 - [-187 \div 70 \div (-17)] \div 99} \div (-102)$<br/>
+= ${27 - [-2.67 \div (-17)] \div 99} \div (-102)$<br/>
+= ${27 - 0.16 \div 99} \div (-102)$<br/>
+= ${27 - 0.0} \div (-102)$<br/>
+= $27.0 \div (-102)$<br/>
+= $-0.26$<br/>
+Therefore option $4$ is right selection 
+
+    
